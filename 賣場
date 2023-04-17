@@ -1,0 +1,76 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>速的行充-行動電源</title>
+	<!--添加必要的CSS文件-->
+	<link rel="stylesheet" href="style.css">
+	<!--添加必要的JavaScript文件-->
+	<script src="script.js"></script>
+</head>
+<body>
+	<!--头部-->
+	<header>
+		<div class="container">
+			<h1>速的行充</h1>
+			<nav>
+				<ul>
+					<li><a href="#features">產品特色</a></li>
+					<li><a href="#reviews">用戶評價</a></li>
+					<li><a href="#pricing">價格</a></li>
+					<li><a href="#contact">聯繫我們</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>
+
+	<!--特色介紹部分-->
+	<section id="features">
+		<div class="container">
+			<h2>速的行充 產品特色</h2>
+			<p>速的行充是一款高品质的行动电源，具有以下特点：</p>
+			<ul>
+				<li>大容量，长续航</li>
+					<li>智能快充，多种接口</li>
+					<li>多重安全保护，安全可靠</li>
+			</ul>
+			<button>了解更多</button>
+		</div>
+	</section>
+
+	<!--用户评论部分-->
+	<section id="reviews">
+		<div class="container">
+			<h2>速的行充 用户評價</h2>
+			<div class="review">
+				<img src="user1.jpg" alt="用户头像">
+				<p>"速的行充非常好用，充电速度很快，而且很轻便，方便携带。"</p>
+				<p><em>- 张先生</em></p>
+			</div>
+			<div class="review">
+				<img src="user2.jpg" alt="用户头像">
+				<p>"速的行充的外观很漂亮，使用很方便，不会出现漏电或短路的问题。"</p>
+				<p><em>- 李女士</em></p>
+			</div>
+			<div class="review">
+				<img src="user3.jpg" alt="用户头像">
+				<p>"速的行充的续航很长，可以满足我的需要，而且使用起来非常方便。"</p>
+				<p><em>- 王先生</em></p>
+			</div>
+		</div>
+	</section>
+ 
+<!--价格部分-->
+<section id="pricing">
+    <div class="container">
+        <h2>速的行充 產品價格</h2>
+        <p>速的行充的价格如下：</p>
+        <ul>
+            <li>单个价格：$1599</li>
+            <li>两个或以上优惠价格：$1400/个</li>
+        </ul>
+        <button>立即购买</button>
+    </div>
+</section>
